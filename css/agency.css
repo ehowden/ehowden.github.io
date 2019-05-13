@@ -166,8 +166,8 @@ img::-moz-selection {
 
 header.masthead {
   text-align: center;
-  color: white;
-  background-image: url("../img/header-bg.jpg");
+  color: black;
+  background-color: #F8F9FB;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -443,7 +443,7 @@ header.masthead .intro-text .intro-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #45B39C;
 }
 
 .timeline > li .timeline-image h4 {
@@ -587,7 +587,7 @@ header.masthead .intro-text .intro-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../img/map-image.png");
+  background-color: #45B39C;
   background-repeat: no-repeat;
   background-position: center;
 }
